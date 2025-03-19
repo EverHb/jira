@@ -1,4 +1,4 @@
-Colaboradores:
+Colaboradores;
 
 - Carlos David Hernandez Rodrigez: Encargado de la organizacion del proyecto en jira.
 
