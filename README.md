@@ -8,5 +8,6 @@ Colaboradores:
 
 - David Steward Sibrian Gomez: Hizo la creacion README.md
 
-- Saul Alfredo Guardado Lopez: Realizo el commit y pull request.
+- Jose Azarias Martinez Escamilla: Realizo el commit.
 
+- Saul Alfredo Guardado Lopez: Realizo pull request.
